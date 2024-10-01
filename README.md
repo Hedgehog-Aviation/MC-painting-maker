@@ -2,9 +2,9 @@
 Minecraft custom painting generator which lets you select an image, and then it will create a resourcepack making that image into a painting. 
 <h3> Installation Instructions (Windows) </h3>
 
-1. Install Python 3
+- Install Python 3
 
-2. Run the .py file
+- Run the .py file
 
 <h3> Usage Instructions </h3>
 
